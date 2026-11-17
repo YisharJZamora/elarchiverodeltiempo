@@ -1,0 +1,8 @@
+:root{--fondo:#1b1712;--texto:#efe6d6;--ocre:#c9a24a;--gris:#b9ae9c}
+body{margin:0;background:var(--fondo);color:var(--texto);font:17px/1.6 Georgia,"Times New Roman",serif}
+main{max-width:720px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:30px;margin:0 0 4px;color:var(--ocre);letter-spacing:.5px}
+h2{font-size:20px;margin:32px 0 8px;color:var(--ocre)}
+a{color:var(--ocre)} .lema{color:var(--gris);font-style:italic;margin:0 0 28px}
+nav{margin-top:40px;padding-top:16px;border-top:1px solid #3a3226;font-size:15px}
+nav a{margin-right:18px}
